@@ -1,3 +1,3 @@
 # coding-basics
 
-I love ☕
+I love coding.
